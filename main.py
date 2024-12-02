@@ -1,1 +1,1 @@
-import pandas as pdz
+import pandas as pd
